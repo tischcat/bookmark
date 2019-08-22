@@ -5,3 +5,8 @@ __pycache__
 db.sqlite3
 /static
 .DS_store
+
+# git add -A .
+# 파일을 git에 추가시키는 명령어
+
+# git commit -m "메세지입력"
